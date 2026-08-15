@@ -1,8 +1,11 @@
+# Generate Azure recommendations
+
 def generate_recommendations(application_type,
                               database,
                               storage,
                               security,
                               traffic):
+    """Generate Azure service recommendations based on application requirements."""
 
     recommendations = []
 

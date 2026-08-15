@@ -1,3 +1,5 @@
+# Analyze technical requirements
+
 def analyze_requirements(application_type,
                          users,
                          infrastructure,
@@ -6,6 +8,7 @@ def analyze_requirements(application_type,
                          availability,
                          security,
                          storage):
+    """Analyze application inputs and identify technical requirements."""
 
     requirements = []
 

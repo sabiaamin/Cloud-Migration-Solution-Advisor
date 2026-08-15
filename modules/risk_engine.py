@@ -1,9 +1,12 @@
+# Identify risks
+
 def assess_risks(users,
                  infrastructure,
                  traffic,
                  availability,
                  security,
                  storage):
+    """Identify migration risks based on application characteristics."""
 
     risks = []
 

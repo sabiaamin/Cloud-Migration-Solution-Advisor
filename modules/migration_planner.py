@@ -1,4 +1,7 @@
+# Generate migration phases
+
 def create_migration_plan(infrastructure):
+    """Create a phased cloud migration plan."""
 
     plan = [
         {
