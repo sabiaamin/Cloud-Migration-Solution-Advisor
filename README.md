@@ -39,4 +39,4 @@ Migration Roadmap
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbdulMateen-X/Cloud-Migration-Solution-Advisor.git
+git clone https://github.com/sabiaamin/Cloud-Migration-Solution-Advisor.git
